@@ -7,7 +7,7 @@ nav_order: 1
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
-# Social Media Research Ethics – Preliminary Considerations.
+# # Welcome to Social Media Research Ethics – Preliminary Considerations.
 
 
 <!--
