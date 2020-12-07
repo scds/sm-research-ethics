@@ -38,5 +38,5 @@ plugins:
   - jekyll-seo-tag
 
 # Google Analytics Tracking
-ga_tracking: # *** This needs to be set up in Google Analytics once you know the website URL (ask Jay to do this). Then the tracking code needs to be taken from Google Analytics and pasted here.  
+ga_tracking: G-G74EQ1ST64 # *** This needs to be set up in Google Analytics once you know the website URL (ask Jay to do this). Then the tracking code needs to be taken from Google Analytics and pasted here.  
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
