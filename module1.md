@@ -3,6 +3,9 @@ layout: default
 title: 01 - Preliminary Considerations
 nav_order: 2
 ---
+
+# Social Media Research Ethics - Preliminary Considerations
+
 ## Workshop video
 <iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/3b421808-70f9-4149-b388-82daacae8f0a/public?autoplay=false&automute=false"></iframe>
 
