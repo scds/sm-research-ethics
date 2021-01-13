@@ -1,10 +1,14 @@
 ---
 layout: default
-title: Preliminary Considerations
-nav_order: 3
+title: 03 - Power and Provocations
+nav_order: 4
 ---
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/3b421808-70f9-4149-b388-82daacae8f0a/public?autoplay=false&automute=false"></iframe>
+# Social Media Research Ethics - Power and Provocations
+
+## Coming 22-February, 2021
+Register for the live roundtable discussion [here](https://u.mcmaster.ca/smre3).
+
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
