@@ -7,7 +7,7 @@ nav_order: 3
 # Social Media Research Ethics - Project Design
 
 ## Module goes live 22-February, 2021
-Register [here](https://u.mcmaster.ca/smre2) for a reminder.
+Register [here](https://u.mcmaster.ca/smre2) for a reminder when the module goes live.
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
