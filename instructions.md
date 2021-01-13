@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Getting Started
+title: Preliminary Considerations
 nav_order: 3
 ---
+
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/3b421808-70f9-4149-b388-82daacae8f0a/public?autoplay=false&automute=false"></iframe>
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
