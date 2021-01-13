@@ -7,7 +7,7 @@ nav_order: 4
 # Social Media Research Ethics - Power and Provocations
 
 ## Coming 22-February, 2021
-Register for the live roundtable discussion [here](https://u.mcmaster.ca/smre3).
+Register [here](https://u.mcmaster.ca/smre3) for the live roundtable discussion .
 
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
