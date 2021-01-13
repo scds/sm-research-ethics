@@ -14,7 +14,7 @@ nav_order: 2
 <iframe src="//docs.google.com/viewer?url=https://github.com/scds/sm-research-ethics1/raw/main/assets/docs/sm-research-ethics-module1-slides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
 <br>
-[Download the slides](https://github.com/scds/sm-research-ethics1/raw/main/assets/docs/sm-research-ethics-module1-slides.pdf)vas a PDF.
+[Download the slides](https://github.com/scds/sm-research-ethics1/raw/main/assets/docs/sm-research-ethics-module1-slides.pdf) as a PDF.
 
 
 ## Accompanying materials
