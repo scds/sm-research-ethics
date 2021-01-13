@@ -12,9 +12,11 @@ nav_order: 2
 </div>
 
 ## Accompanying materials
-* [Module 1 worksheet](https://github.com/scds/sm-research-ethics1/raw/main/assets/docs/SM%20Research%20Ethics%20Module%201%20Worksheet.pdf)
+* [Module worksheet](https://github.com/scds/sm-research-ethics1/raw/main/assets/docs/SM%20Research%20Ethics%20Module%201%20Worksheet.pdf)
 * [Module feedback form](https://forms.gle/rTbpa44FLa7A6APG7)
 * [Register](https://u.mcmaster.ca/smre2) to get notified of the release of module 2: **Social Media Research Ethics - Project Design**.
+
+
 
 <!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
 
