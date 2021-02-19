@@ -27,30 +27,5 @@ Before engaging with the module, download a copy of the [Project Design Question
 <br>
 
 ## Accompanying materials and activities
-* Provide feedback in version 1 of the Project Design Questionnaire [here](https://u.mcmaster.ca/sme-feedback).
+* Provide feedback on version 1 of the [Project Design Questionnaire for Social Media Research](https://github.com/scds/sm-research-ethics2/raw/main/assets/docs/project-design-questionnaire-for-sm-research.pdf) via [this short form](https://u.mcmaster.ca/sme-feedback).
 * [**Register**](https://u.mcmaster.ca/smre3) for the upcoming live roundtable discussion: [Social Media Research Ethics - Power and Provocations](module3), being held on 26-March, 2021.
-
-<!--
-
-After ensuring that you've followed the [Preparatory steps](preparation), open Tableau and follow along with the workshop recording or slides. 
-
-## Workshop recording
-
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public?autoplay=false&automute=false"></iframe>
-
-View the original [here](https://echo360.ca/media/4378b2ec-7d0c-4632-a1e4-5a8076a494da/public).
-
-
-## Workshop slides
-
-<div style="position:relative;padding-top:66.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/intro-tableau/raw/main/assets/docs/tableau_20201118.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
-</div>
-[Download as a PDF](https://github.com/scds/intro-tableau/raw/main/assets/docs/tableau_20201118.pdf)
-<br>
-
-## Worksheets
-**Coming soon!**
-
-
--->
