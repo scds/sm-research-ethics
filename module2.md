@@ -21,11 +21,11 @@ Before engaging with the module, download a copy of the [Project Design Question
 
 ## Slides
 <div style="position:relative;padding-top:56.25%;">
-<iframe src="//docs.google.com/viewer?url=https://github.com/scds/sm-research-ethics2/raw/main/assets/docs/sm-research-ethics-module2-slides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
+<iframe src="//docs.google.com/viewer?url=https://github.com/scds/sm-research-ethics/raw/main/assets/docs/sm-research-ethics-module2-slides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
-[Download the slides](https://github.com/scds/sm-research-ethics1/raw/main/assets/docs/sm-research-ethics-module2-slides.pdf) as a PDF.
+[Download the slides](https://github.com/scds/sm-research-ethics/raw/main/assets/docs/sm-research-ethics-module2-slides.pdf) as a PDF.
 <br>
 
 ## Accompanying materials and activities
-* Provide feedback on version 1 of the [Project Design Questionnaire for Social Media Research](https://github.com/scds/sm-research-ethics2/raw/main/assets/docs/project-design-questionnaire-for-sm-research.pdf) via [this short form](https://u.mcmaster.ca/sme-feedback).
+* Provide feedback on version 1 of the [Project Design Questionnaire for Social Media Research](https://github.com/scds/sm-research-ethics/raw/main/assets/docs/project-design-questionnaire-for-sm-research.pdf) via [this short form](https://u.mcmaster.ca/sme-feedback).
 * [**Register**](https://u.mcmaster.ca/smre3) for the upcoming live roundtable discussion: [Social Media Research Ethics - Power and Provocations](module3), being held on 26-March, 2021.
