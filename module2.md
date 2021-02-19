@@ -8,7 +8,7 @@ nav_order: 3
 Welcome to the second module in the Social Media Research Ethics series. This workshop focuses on the methodological and ethical considerations for planning, carrying out, and managing research projects that incorporate social media platforms and data. 
 
 ## Preparation
-Before engaging with the module, download a copy of the [Project Design Questionnaire for Social Media Research](https://github.com/scds/sm-research-ethics2/raw/main/assets/docs/project-design-questionnaire-for-sm-research.pdf).
+Before engaging with the module, download a copy of the [Project Design Questionnaire for Social Media Research](https://github.com/scds/sm-research-ethics/raw/main/assets/docs/project-design-questionnaire-for-sm-research.pdf).
 
 ## Part 1: Designing, assessing, consulting, (re)formulating
 <iframe height="540" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/6dcee4fe-a25f-4d54-8e4a-55ff0bedf5a7/public?autoplay=false&automute=false"></iframe>
