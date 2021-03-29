@@ -28,4 +28,4 @@ Before engaging with the module, download a copy of the [Project Design Question
 
 ## Accompanying materials and activities
 * Provide feedback on version 1 of the [Project Design Questionnaire for Social Media Research](https://github.com/scds/sm-research-ethics/raw/main/assets/docs/project-design-questionnaire-for-sm-research.pdf) via [this short form](https://u.mcmaster.ca/sme-feedback).
-* [**Register**](https://u.mcmaster.ca/smre3) for the upcoming live roundtable discussion: [Social Media Research Ethics - Power and Provocations](module3), being held on 26-March, 2021.
+* See the [Learn More](learn-more) section for links to additional resources.
