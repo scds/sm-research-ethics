@@ -22,8 +22,6 @@ Download a copy of the [module worksheet](https://github.com/scds/sm-research-et
 ## Accompanying materials and activities
 * [Download](https://github.com/scds/sm-research-ethics1/raw/main/assets/docs/SM%20Research%20Ethics%20Module%201%20Worksheet.pdf) the module worksheet 
 * Provide feedback on this module and share your worksheet via the [module feedback form](https://forms.gle/rTbpa44FLa7A6APG7)
-* [Register](https://u.mcmaster.ca/smre2) to get notified of the release of module 2: **Social Media Research Ethics - Project Design**.
-
 
 
 
