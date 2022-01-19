@@ -6,7 +6,7 @@ This repository contains workshop files, as well as files used to create the [wo
 
 Contributions by the following individuals: 
 - Workshop content created by Emily Van Haren, Andrea Zeffiro, Isaac Pratt, Jay Brodeur 
-- Content edited for online use by  
+- Content edited for online use by Emily Van Haren, Andrea Zeffiro, Isaac Pratt, Jay Brodeur
 - Online pages created by Jay Brodeur
 
 
